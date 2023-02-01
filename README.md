@@ -19,6 +19,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonPaulo&layout=compact)](https://github.com/AndersonPaulo/github-readme-stats)
 
-Adoro estudar novas tecnologias, sempre estou em busca de novos conhecimentos para compartilhar com a comunidade!
+Amo estudar novas tecnologias, sempre estou em busca de novos conhecimentos para compartilhar com a comunidade!
 
 
