@@ -18,6 +18,13 @@
 
 
 
-Amo estudar novas tecnologias, sempre estou em busca de novos conhecimentos para compartilhar com a comunidade!
+
+Profissional versátil com experiência em desenvolvimento front-end e garantia de
+qualidade. Desde 2018, desenvolvo páginas web para pequenos comerciantes, utilizando
+HTML, CSS, JavaScript, Node.js e SQL.
+Nos últimos anos, aprofundei meus conhecimentos em automação de testes, dominando
+ferramentas como Cypress, Playwright, Postman e Appium. Possuo experiência em SQL,
+GitHub Actions, Scrum e Agile, além de seguir boas práticas de bug reporting e
+documentação de testes.
 
 
